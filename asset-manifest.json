@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Codemancers-Assignment/static/css/main.5b8e0fb7.css",
+    "main.js": "/Codemancers-Assignment/static/js/main.031d5542.js",
+    "index.html": "/Codemancers-Assignment/index.html",
+    "main.5b8e0fb7.css.map": "/Codemancers-Assignment/static/css/main.5b8e0fb7.css.map",
+    "main.031d5542.js.map": "/Codemancers-Assignment/static/js/main.031d5542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8e0fb7.css",
+    "static/js/main.031d5542.js"
+  ]
+}
